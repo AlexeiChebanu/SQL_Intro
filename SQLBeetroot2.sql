@@ -6,3 +6,4 @@ CREATE TABLE Bank_Accounts
 	QuantityOfMoney FLOAT,
 )
 
+//should be primary key created
